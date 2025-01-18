@@ -13,9 +13,9 @@ Expect many bugs and issues as the project is still in early development. Feedba
 
 ## Download  
 You can download the latest version of TraceWin here:  
--Wait-  
+[TraceWin](https://github.com/jrrub2/TraceWin/blob/main/TraceWin_Alpha_v01.zip)  
 
 ## How to Use  
-1. Download the application from the -wait- .  
+1. Download the application from the [TraceWin](https://github.com/jrrub2/TraceWin/blob/main/TraceWin_Alpha_v01.zip) .  
 2. Launch TraceWin and input the target URL or IP address.  
 3. View detailed network path information from your device to the server.  
