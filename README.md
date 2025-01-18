@@ -3,7 +3,7 @@
 **TraceWin** is a traceroute tool for Windows that makes it easy for users to track network paths and analyze connection performance efficiently.  
 
 **Note: This is an alpha release (version 0.1)**  
-Expect many bugs and issues as the project is still in early development. Feedback are highly appreciated!  
+This app is still in its early development stage, so expect a few bugs and issues. Your feedback would be awesome!  
 
 ## Features  
 - **Fast and Accurate Traceroute**: Displays each hop along the network path.  
